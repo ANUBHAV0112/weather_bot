@@ -109,7 +109,7 @@ nlu:
       - tell me the forecast for [London](location)
       - weather update for [Bangalore](location)
       - will it snow in [Berlin](location)?
-      - how's the weather in[Himchal Pradesh](location)?
+      - how's the weather in [Himachal Pradesh](location)?
       - what’s the weather in [Chandigarh](location)?
       - is it raining in [Goa](location)?
       - will it snow in [Manali](location)?
